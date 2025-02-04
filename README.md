@@ -1,6 +1,8 @@
 # CHZZKChat
-치지직 공식 채팅 URL에 CSS입혀서 API 따로 거치지 않고 쉽게 OBS에 투명 배경으로 송출하는 방법입니다
-OBS 실행 -> `+`누르기 -> URL에 `https://chzzk.naver.com/live/{채널 ID}/chat` 입력
+치지직 공식 채팅 URL에 CSS입혀서 API나 거치거나 프로그램 설치 없이 쉽게 OBS에 투명 배경으로 송출하는 방법입니다
+
+설정방법
+OBS 실행 -> `+`누르기 -> 브라우저 -> URL에 `https://chzzk.naver.com/live/{채널 ID}/chat` 입력
 사용자 지정 CSS에 밑에 내용 복사해서 입력하면 끝
 추가 디자인을 원하시면 AI같은거로 CSS 작성해서 추가로 더 넣으면 됩니다
 
