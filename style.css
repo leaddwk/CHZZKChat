@@ -1,0 +1,44 @@
+.live_chatting_header_container__k0hTT {
+    display: none;
+}
+
+.live_chatting_area__hUPJw {
+    display: none;
+}
+
+.live_chatting_list_fixed__Wy3TT {
+    display: none;
+}
+
+.live_chatting_list_wrapper__a5XTV {
+    padding: 0px;
+    margin: 0px;
+}
+
+.live_chatting_list_big_padding__iG-3T {
+    display: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+.live_chatting_fixed_mission_container__T6EY5 {
+  display:none;
+}
+
+html, body{
+    background-color: rgba(0,0,0,0) !important;
+}
+
+.live_chatting_container__SvtrD {
+    background-color: rgba(0,0,0,0);
+}
+
+body {
+    background-color: rgba(0,0,0,0) !important;
+}
+
+body * {
+    background-color: inherit !important;
+}
