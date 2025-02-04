@@ -28,7 +28,7 @@ OBS 실행 -> `+`누르기 -> URL에 `https://chzzk.naver.com/live/{채널 ID}/c
 }
 ```
 
-
+기본 CSS
 ```
 .live_chatting_ranking_container__RVHvS {
     display: none;
